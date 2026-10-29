@@ -1,0 +1,1 @@
+Client and contact manager that stores your data on your phone

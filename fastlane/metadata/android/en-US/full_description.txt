@@ -1,0 +1,10 @@
+okeClientes lets you keep a simple list of clients on your device.
+
+- Create a local account and sign in with email and password.
+- Add, edit and delete clients with name, phone and email.
+- Create your own classifications and assign them to clients.
+- Browse your phone contacts and open a WhatsApp chat from them.
+- Scan QR codes and open their links.
+- Browse Pokémon data loaded from PokeAPI (requires internet).
+
+Your clients and account are stored only on your device. No Google services, ads or trackers.
