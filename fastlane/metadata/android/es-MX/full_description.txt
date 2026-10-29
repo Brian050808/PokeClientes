@@ -1,0 +1,9 @@
+PokeClientes te permite registrar y organizar a tus clientes de forma sencilla.
+
+- Crea una cuenta y entra con tu correo y contraseña.
+- Agrega, edita y elimina clientes con nombre, teléfono y correo.
+- Crea tus propias clasificaciones y asígnalas a cada cliente.
+- Importa datos desde los contactos del teléfono.
+- Escanea códigos QR y abre sus enlaces.
+
+Tus datos se guardan solo en tu dispositivo. La app no usa servicios de publicidad ni rastreadores.
